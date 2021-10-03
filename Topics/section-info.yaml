@@ -1,0 +1,26 @@
+content:
+- Getting substrings
+- List
+- Properties accessors
+- Arrays
+- Named arguments
+- Mutable list
+- Work with MutableLists
+- For loop and lists
+- Processing strings
+- While loops
+- Jumps and returns
+- Comments
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- Standard output
+- The try-catch-finally statement
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- Inheritance
+- toString()
+- Data class
